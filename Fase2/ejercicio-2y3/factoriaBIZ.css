@@ -1,0 +1,17 @@
+
+html{
+    background-color: antiquewhite;
+    padding-left:15%;
+    padding-right:15%;
+    padding-top: 1%;
+}
+
+img{
+    width: 30%;
+    margin-top: 1%;
+}
+
+form, h1{
+    background-color: antiquewhite;
+    text-align: center;
+}
